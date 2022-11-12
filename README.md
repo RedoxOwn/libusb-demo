@@ -1,5 +1,6 @@
 ﻿# libusb DEMO
 This a simple project to demonstrate how to include libusb library in C++ using cmake without relying on -lusb-1.0 or -lusb flags.
+
 libusb is a library for USB device access from Linux, macOS, Windows, OpenBSD/NetBSD, Haiku, Solaris userspace, and WebAssembly via WebUSB. It is written in C (Haiku backend in C++).
 
 This project contain the libusb library precompiled for Linux and Windows.
