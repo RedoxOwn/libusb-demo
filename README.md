@@ -46,7 +46,9 @@ Vendor:Device = 062a:4c01
 Vendor:Device = 1d6b:0002
 ```
 If you get something like the above then everything is working fine.
-Now you can start adding your own code and build stuff.
+
+>Now you can start adding your own code and build stuff.
+
 # Requirements
 * Cmake
 >Minimum required VERSION 3.10
