@@ -54,4 +54,4 @@ If you get something like the above then everything is working fine.
 >Minimum required VERSION 3.10
 
 * Windows SDK Platform Tools
->If your using windows
+>If you're using windows
