@@ -18,7 +18,7 @@ cmake ../
 cmake --build .
 ```
 ### 2. Find executable
-If compiling is success you will executable find in:
+If compiling is success you will find executable in:
 >For Windows: build\Debug\main.exe
 
 >For Linux: build\main
